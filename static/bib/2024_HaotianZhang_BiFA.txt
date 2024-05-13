@@ -1,0 +1,10 @@
+@ARTICLE{10471555,
+  author={Zhang, Haotian and Chen, Hao and Zhou, Chenyao and Chen, Keyan and Liu, Chenyang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Feature extraction;Task analysis;Remote sensing;Transformers;Interference;Decoding;Optical flow;Bitemporal interaction (BI);change detection (CD);feature alignment;flow field;high-resolution optical remote sensing image;implicit neural representation},
+  doi={10.1109/TGRS.2024.3376673}}

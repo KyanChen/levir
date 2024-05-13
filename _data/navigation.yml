@@ -10,6 +10,14 @@
   link: "/publications/index.html"
   group: publications
 
+- name: Codes
+  link: "/codes/index.html"
+  group: codes
+
+- name: Datasets
+  link: "/datasets/index.html"
+  group: datasets
+
 - name: Members
   link: "/members/index.html"
   group: members

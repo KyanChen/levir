@@ -1,0 +1,10 @@
+@ARTICLE{10466744,
+  author={Liu, Jiao and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Cascaded Memory Network for Optical Remote Sensing Imagery Cloud Removal},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-11},
+  keywords={Convolution;Remote sensing;Correlation;Optical sensors;Transformers;Optical imaging;Task analysis;Cascaded memory network (CMNet);cloud removal;remote sensing images},
+  doi={10.1109/TGRS.2024.3376609}}

@@ -32,6 +32,10 @@ collections:
                 output: true
         publications:
                 output: true
+        codes:
+                output: true
+        datasets:
+          output: true
         news:
                 output: true
         reviews:
