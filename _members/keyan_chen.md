@@ -15,7 +15,7 @@ beihang:
 twitter:
 linkedin:
 github: KyanChen
-researchgate: Keyan-Chen-6
+researchgate: Keyan-Chen-9
 dblp: 256/2434
 orcid: 0000-0003-0483-1306
 description: "Keyan Chen received the B.S. and M.S. degrees from the School of Astronautics, Beihang University, Beijing, China, in 2019 and 2022, respectively. 

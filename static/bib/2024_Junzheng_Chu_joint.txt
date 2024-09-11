@@ -1,0 +1,9 @@
+@article{chu2024joint,
+  title={Joint Variational Inference Network for domain generalization},
+  author={Chu, Jun-Zheng and Pan, Bin and Xu, Xia and Shi, Tian-Yang and Shi, Zhen-Wei and Li, Tao},
+  journal={Pattern Recognition},
+  volume={154},
+  pages={110587},
+  year={2024},
+  publisher={Elsevier}
+}

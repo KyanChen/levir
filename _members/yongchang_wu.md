@@ -6,7 +6,7 @@ enddate: [2023-01-10]
 image: /static/img/members/yongchang_wu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D. Student"
-timeline_positions: ["M.S. Student (2020-2023)", "Ph.D. Student (2023-2026)"]
+timeline_positions: ["M.S. Student (2020-2023)", "Ph.D. Student (2023-)"]
 # subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns
 email: wuyongchang@buaa.edu.cn # Preferred public email address

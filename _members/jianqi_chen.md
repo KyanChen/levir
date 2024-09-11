@@ -1,12 +1,13 @@
 ---
 name: Jianqi Chen
 startdate: [2020-10-01, 2021-09-01]
-enddate: [2021-09-01,]
+enddate: [2021-09-01, 2024-01-10]
+leavedate: [2024-01-10]
 image: /static/img/members/jianqi_chen.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/jianqi_chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "M.S. Student"
-timeline_positions: ["Intern Student (2020-2021)", "M.S. Student (2021-)"]
-# subsequent:  update once you become an alumnus
+position: "M.S."
+timeline_positions: ["Intern Student (2020-2021)", "M.S. Student (2021-2024)"]
+subsequent: "@ KAUST"
 pronouns: he/him/his # personal pronouns
 email: windvchen@gmail.com # Preferred public email address
 scholar: 7jZZKH0AAAAJ

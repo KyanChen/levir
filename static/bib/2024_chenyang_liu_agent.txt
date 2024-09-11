@@ -1,0 +1,7 @@
+@article{liu2024change,
+  title={Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis},
+  author={Liu, Chenyang and Chen, Keyan and Zhang, Haotian and Qi, Zipeng and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}

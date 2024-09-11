@@ -83,16 +83,20 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
 <br>
 <h1>Research Students</h1>
 
+{% assign show_positions = "Ph.D. Student, M.S. Student, Intern Student" | split: ", " %}
 
-{% assign sorted = site.members | sort: "startdate" %}
-{% for member in sorted %}
+{% assign grouped_items = site.members | group_by: 'position' %}
 
-
-{% unless member.enddate == empty or member.startdate.size != member.enddate.size%}
+{% for group in grouped_items %}
+<!--排除某些类别-->
+{% unless show_positions contains group.name %}
 {% continue %}
 {% endunless %}
 
-{% unless member.position contains "Ph.D. Student" or member.position contains "M.S. Student" %}
+{% assign sorted = group.items | sort: "startdate" %}
+{% for member in sorted %}
+
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
 {% continue %}
 {% endunless %}
 
@@ -149,6 +153,7 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
     </div>
 </div>
 <hr>
+{% endfor %}
 {% endfor %}
 
 <br>
@@ -221,7 +226,7 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
 
         <rect x="{{ start | times: stretch }}" y="{{ i | times: yspacing }}" width="{{ duration | times: stretch }}" height="{{ yheight }}" fill="{{ color }}" />
         {% if tenure == 0 %}
-        <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first  }}{% endif %}</text>
+        <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name }}{% endif %}</text>
         {% endif %}
         {% endfor %}
         {% assign i = i | plus: 1 %}
@@ -245,6 +250,6 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
         <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">M.S. Student</text>
         {% assign yposition = yposition | plus: legendboxspacing %}
         <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="turquoise" />
-        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Summer Student</text>
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Intern Student</text>
     </svg>
 </div>

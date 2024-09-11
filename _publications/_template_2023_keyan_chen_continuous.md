@@ -7,7 +7,7 @@
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 # 发表日期，去期刊网站上查，会议的话以会议召开的日期为准
     pub_date: 2023-05-02
-# pdf文件，放在本目录下即可，命名与本md文件同名，如有则填，没有空着。pdf去实验室网站下载
+# pdf文件，放在本目录下即可，命名与本md文件同名，如有则填，没有空着，需要无版权版本
     pdf: /static/pdfs/2023_keyan_chen_continuous.pdf
 # 如有则填
     arxiv: https://arxiv.org/abs/2302.08046
@@ -19,10 +19,9 @@
     demo: https://huggingface.co/spaces/KyanChen/FunSR
 # 正式发表的网页，填写期刊网址，会议的话填写会议网址
     paper: https://ieeexplore.ieee.org/document/10114420
-# bib文件，放在本目录下即可，命名与本md文件同名。bib去期刊网站下载，实在找不到去google scholar上下载
+# bib文件，命名为txt，放在本目录下即可，命名与本md文件同名。bib去期刊网站下载或者找不到去google scholar上
     bibtex: /static/bib/2023_keyan_chen_continuous.txt
 # 数据集，如有则填，填写数据集网址
     data:
 ---
 
-    

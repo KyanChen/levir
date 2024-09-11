@@ -1,5 +1,5 @@
 ---
-name: Zhenwei Shi, Ph.D.
+name: Zhenwei Shi
 startdate: [2007-06-01]
 enddate: []
 image: /static/img/members/szw.jpeg
@@ -22,7 +22,7 @@ He was a Visiting Scholar with the Department of Electrical Engineering and Comp
 
 
 He is currently a Professor and the Dean of the Image Processing Center, School of Astronautics, Beihang University, Beijing. 
-He has authored or coauthored over 200 scientific papers in refereed journals and proceedings, including the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Geoscience and Remote Sensing, the IEEE Geoscience and Remote Sensing Letters, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), and the IEEE International Conference on Computer Vision (ICCV). 
+He has authored or coauthored over 300 scientific papers in refereed journals and proceedings, including the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Geoscience and Remote Sensing, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), and the IEEE International Conference on Computer Vision (ICCV). 
 His research interests include remote sensing image processing and analysis, computer vision, pattern recognition, and machine learning.
 
 

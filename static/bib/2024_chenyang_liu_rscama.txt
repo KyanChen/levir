@@ -1,0 +1,7 @@
+@article{liu2024rscama,
+  title={Rscama: Remote sensing image change captioning with state space model},
+  author={Liu, Chenyang and Chen, Keyan and Chen, Bowen and Zhang, Haotian and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2024},
+  publisher={IEEE}
+}

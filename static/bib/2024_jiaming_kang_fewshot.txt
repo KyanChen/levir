@@ -1,0 +1,7 @@
+@article{kang2024few,
+  title={Few-Shot Remote Sensing Novel View Synthesis with Geometry Constraint NeRF},
+  author={Kang, Jiaming and Chen, Keyan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={Guidance, Navigation and Control},
+  year={2024},
+  publisher={World Scientific}
+}

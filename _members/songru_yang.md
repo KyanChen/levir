@@ -1,11 +1,11 @@
 ---
 name: Songru Yang
-startdate: [2022-09-01, 2023-06-01]
-enddate: [2023-06-01]
+startdate: [2022-09-01, 2023-09-01, 2024-09-01]
+enddate: [2023-09-01, 2024-09-01]
 image: /static/img/members/songru_yang.jpeg # 365 x 365 pixels, 72 dpi
 \# altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "M.S. Student"
-timeline_positions: ["Intern Student (2022-2023)", "M.S. Student (2023-)"]
+position: "Ph.D. Student"
+timeline_positions: ["Intern Student (2022-2023)", "M.S. Student (2023-2024)", "Ph.D. Student (2024-)"]
 \# subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns
 email: 19375011@buaa.edu.cn # Preferred public email address

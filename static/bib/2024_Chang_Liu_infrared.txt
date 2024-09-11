@@ -1,0 +1,7 @@
+@article{liu2024infrared,
+  title={Infrared Small Target Detection Based on Monogenic Signal Decomposition},
+  author={Liu, Chang and Xie, Fengying and Qiu, Linwei and Ji, Haolin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}

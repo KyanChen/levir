@@ -1,0 +1,7 @@
+@article{yang2024weakly,
+  title={Weakly Supervised Adversarial Training for Remote Sensing Image Cloud and Snow Detection},
+  author={Yang, Jiajun and Li, Wenyuan and Chen, Keyan and Liu, Zili and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}

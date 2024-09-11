@@ -1,0 +1,10 @@
+@ARTICLE{10632108,
+  author={Qiu, Linwei and Xie, Fengying and Liu, Chang and Wang, Ke and Song, Xuedong and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Remote Sensing Image Rectangling With Iterative Warping Kernel Self-Correction Transformer}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Kernel;Remote sensing;Distortion;Deformation;Feature extraction;Indexes;Transformers;Rectangling;remote sensing images;transformers},
+  doi={10.1109/TGRS.2024.3441246}}

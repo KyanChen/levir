@@ -5,7 +5,7 @@ enddate: []
 image: /static/img/members/zipeng_qi.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/zipeng_qi.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D. Student"
-timeline_positions: ["Ph.D. Student (2020-2025)"]
+timeline_positions: ["Ph.D. Student (2020-)"]
 # subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns
 email: qizipeng@buaa.edu.cn # Preferred public email address

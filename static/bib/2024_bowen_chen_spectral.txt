@@ -1,0 +1,10 @@
+@ARTICLE{10654291,
+  author={Chen, Bowen and Liu, Liqin and Liu, Chenyang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Spectral-Cascaded Diffusion Model for Remote Sensing Image Spectral Super-Resolution}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Superresolution;Diffusion models;Spatial resolution;Biological system modeling;Task analysis;Training;Image synthesis;remote sensing;spectral super-resolution;diffusion model;cascade-based methods},
+  doi={10.1109/TGRS.2024.3450874}}

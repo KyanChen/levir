@@ -7,11 +7,11 @@ image: /static/img/members/wenyuan_li.jpg # 365 x 365 pixels, 72 dpi
 \# altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D."
 timeline_positions: ["Ph.D. Student (2017-2023)"]
-\# subsequent:  update once you become an alumnus
+subsequent:  "@ the University of Hong Kong"
 pronouns: he/him/his # personal pronouns
-email: liwenyuan@buaa.edu.cn # Preferred public email address
-scholar: 
-website: 
+email: liwayne@hku.hk # Preferred public email address
+scholar: cHwscjMAAAAJ
+website: https://flyakon.github.io/
 beihang:
 twitter:
 linkedin:

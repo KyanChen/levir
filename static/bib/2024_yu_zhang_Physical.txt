@@ -1,0 +1,10 @@
+@ARTICLE{10596063,
+  author={Zhang, Yu and Chen, Jianqi and Peng, Zhenbang and Dang, Yi and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Physical Adversarial Attacks Against Aerial Object Detection With Feature-Aligned Expandable Textures}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  keywords={Object detection;Airports;Robustness;Atmospheric modeling;Aircraft;Remote sensing;Image color analysis;Adversarial textures;aerial detection;convolutional network;feature alignment;remote sensing},
+  doi={10.1109/TGRS.2024.3426272}}

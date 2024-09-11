@@ -1,0 +1,10 @@
+@ARTICLE{10521633,
+  author={Chen, Jianqi and Zhang, Yilan and Liu, Chenyang and Chen, Keyan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Digital-to-Physical Visual Consistency Optimization for Adversarial Patch Generation in Remote Sensing Scenes}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Optimization;Visualization;Perturbation methods;Remote sensing;Digital images;Three-dimensional displays;Training;Adversarial patch;object detection;physical adversarial attack;remote sensing},
+  doi={10.1109/TGRS.2024.3397678}}

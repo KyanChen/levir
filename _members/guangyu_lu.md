@@ -1,11 +1,11 @@
 ---
 name: Guangyu Lu
-startdate: [2023-04-02]
-enddate: []
+startdate: [2023-01-01, 2023-09-01]
+enddate: [2023-09-01]
 image: /static/img/members/guangyu_lu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/lu_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S. Student"
-timeline_positions: ["M.S. Student (2023-)"]
+timeline_positions: ["Intern Student (2023-2023)", "M.S. Student (2023-)"]
 # subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns
 email: guangyulu@buaa.edu.cn # Preferred public email address

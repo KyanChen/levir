@@ -1,0 +1,10 @@
+@ARTICLE{10659003,
+  author={Wang, Guangbiao and Zhao, Hongbo and Lyu, Shuchang and Cheng, Guangliang and Chang, Qing and Feng, Wenquan and Zhao, Qi and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={SWIN-TOD: Smooth Wasserstein Distance and Instance-level Neighboring Enhancement for Remote Sensing Tiny Object Detection},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Feature extraction;Measurement;Object detection;Remote sensing;Detectors;Loss measurement;Task analysis;tiny object detection;graph convolutional neural network;Wasserstein distance;feature enhancement;remote sensing object detection},
+  doi={10.1109/TGRS.2024.3452010}}

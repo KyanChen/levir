@@ -1,0 +1,7 @@
+@article{liu2024deriving,
+  title={Deriving Accurate Surface Meteorological States at Arbitrary Locations via Observation-Guided Continous Neural Field Modeling},
+  author={Liu, Zili and Chen, Hao and Bai, Lei and Li, Wenyuan and Chen, Keyan and Wang, Zhengyi and Ouyang, Wanli and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}
