@@ -18,11 +18,5 @@ github: liuliqin
 researchgate:
 dblp: 
 orcid: 0000-0001-7158-6772
-description: "LiQin Liu received the B.S. degree from the School of Astronautics, Beihang University, Beijing, China, in 2018. 
-
-
-She is currently working toward the Phd degree in the Image Processing Center, School of Astronautics, Beihang University.
-
-
-Her research interests include hyperspectral image processing and deep learning."
+description: "Liqin Liu received the B.S. and Ph.D. degrees from  Beihang University, Beijing, China, in 2018 and 2024, respectively. She is currently a Postdoctoral Research Fellow at the School of Astronautics, Beihang University. Her research interests include hyperspectral image processing, remote sensing and deep learning."
 ---

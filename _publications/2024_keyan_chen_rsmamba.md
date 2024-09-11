@@ -2,7 +2,7 @@
 # 文章标题，一般首字母大写，不要加句号，双引号包起来，检查下字母大小写
     title: "RSMamba: Remote Sensing Image Classification with State Space Model"
 # 作者，按照顺序，姓名全拼，逗号分隔，检查下字母大小写
-    authors: Bowen Chen, Liqin Liu, Chenyang Liu, Zhengxia Zou and **Zhenwei Shi**
+    authors: Keyan Chen, Bowen Chen, Chenyang Liu, Wenyuan Li, Zhengxia Zou and **Zhenwei Shi**
 # 期刊名称，首字母大写，检查下字母大小写，最后加个缩写
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
 # 发表日期，去期刊网站上查，会议的话以会议召开的日期为准
