@@ -1,5 +1,5 @@
 ---
-name: Wei Tang
+name: Wei Tang (汤唯)
 startdate: [2013-09-01]
 enddate: [2015-01-01]
 leavedate: [2015-01-01]

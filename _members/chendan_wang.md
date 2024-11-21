@@ -1,5 +1,5 @@
 ---
-name: Chendan Wang
+name: Chendan Wang (王晨丹)
 startdate: [2020-09-01]
 enddate: [2023-01-19]
 leavedate: [2023-01-19]

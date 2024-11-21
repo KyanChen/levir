@@ -1,0 +1,10 @@
+@ARTICLE{10752514,
+  author={Liu, Zili and Chen, Hao and Bai, Lei and Li, Wenyuan and Ouyang, Wanli and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Climate change;Meteorology;Weather forecasting;State-space methods;Superresolution;Remote sensing;Surface treatment;Globalization;Meteorological field downscaling;weather forecasting;state space model;super-resolution;remote sensing},
+  doi={10.1109/TGRS.2024.3496895}}

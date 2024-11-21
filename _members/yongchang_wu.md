@@ -1,5 +1,5 @@
 ---
-name: Yongchang Wu
+name: Yongchang Wu (武永昌)
 startdate: [2020-09-01, 2023-01-10]
 enddate: [2023-01-10]
 # leavedate: [2023-01-10]

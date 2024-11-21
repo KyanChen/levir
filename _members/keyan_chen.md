@@ -1,5 +1,5 @@
 ---
-name: Keyan Chen
+name: Keyan Chen (陈科研)
 startdate: [2018-01-01, 2019-09-01, 2022-01-01]
 enddate: [2019-09-01, 2022-01-01,]
 image: /static/img/members/keyan_chen.jpg # 365 x 365 pixels, 72 dpi

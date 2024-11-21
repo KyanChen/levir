@@ -1,5 +1,5 @@
 ---
-name: Haoning Lin
+name: Haoning Lin (林浩宁)
 startdate: [2013-09-01]
 enddate: [2021-07-21]
 leavedate: [2021-07-21]

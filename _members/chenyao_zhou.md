@@ -1,5 +1,5 @@
 ---
-name: Chenyao Zhou
+name: Chenyao Zhou (周辰尧)
 startdate: [2021-12-01, 2022-09-01]
 enddate: [2022-09-01,]
 image: /static/img/members/chenyao_zhou.jpg

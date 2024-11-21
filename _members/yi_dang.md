@@ -1,5 +1,5 @@
 ---
-name: Yi Dang
+name: Yi Dang (党一)
 startdate: [2022-03-01, 2022-09-01]
 enddate: [2022-09-01,]
 image: /static/img/members/yi_dang.png # 365 x 365 pixels, 72 dpi

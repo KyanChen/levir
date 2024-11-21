@@ -1,5 +1,5 @@
 ---
-name: Tianyang Shi
+name: Tianyang Shi (石天阳)
 startdate: [2015-09-01, 2016-09-01]
 enddate: [2016-09-01, 2018-01-01]
 leavedate: [2018-01-01]

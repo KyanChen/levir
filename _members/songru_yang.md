@@ -1,5 +1,5 @@
 ---
-name: Songru Yang
+name: Songru Yang (杨松儒)
 startdate: [2022-09-01, 2023-09-01, 2024-09-01]
 enddate: [2023-09-01, 2024-09-01]
 image: /static/img/members/songru_yang.jpeg # 365 x 365 pixels, 72 dpi

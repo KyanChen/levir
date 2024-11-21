@@ -1,5 +1,5 @@
 ---
-name: Lu Zhang
+name: Lu Zhang (张璐)
 startdate: [2013-09-01]
 enddate: [2016-06-30]
 leavedate: [2016-06-30]

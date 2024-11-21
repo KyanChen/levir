@@ -1,5 +1,5 @@
 ---
-name: Bowen Chen
+name: Bowen Chen (陈博文)
 startdate: [2022-01-01, 2022-09-01, 2024-09-01]
 enddate: [2022-09-01, 2024-09-01]
 image: /static/img/members/bowen_chen.jpeg # 365 x 365 pixels, 72 dpi

@@ -1,5 +1,5 @@
 ---
-name: Shuo Yang
+name: Shuo Yang (杨硕)
 startdate: [2009-09-01]
 enddate: [2016-06-01]
 leavedate: [2016-06-01]

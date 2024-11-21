@@ -1,5 +1,5 @@
 ---
-name: Rui Zhao
+name: Rui Zhao (赵睿)
 startdate: [2017-06-01, 2019-09-01]
 enddate: [2019-09-01, 2022-01-10]
 leavedate: [2022-01-10]

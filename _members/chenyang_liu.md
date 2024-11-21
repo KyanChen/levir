@@ -1,5 +1,5 @@
 ---
-name: Chenyang Liu
+name: Chenyang Liu (刘辰阳)
 startdate: [2021-01-01, 2021-09-01, 2023-09-01]
 enddate: [2021-09-01, 2023-09-01]
 image: /static/img/members/chenyang_liu.jpg # 365 x 365 pixels, 72 dpi

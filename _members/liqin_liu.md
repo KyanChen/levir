@@ -1,5 +1,5 @@
 ---
-name: Liqin Liu
+name: Liqin Liu (刘丽芹)
 startdate: [2017-10-01, 2018-09-01, 2019-09-01, 2024-09-01]
 enddate: [2018-09-01, 2019-09-01, 2024-09-01]
 image: /static/img/members/liqin_liu.jpg # 365 x 365 pixels, 72 dpi

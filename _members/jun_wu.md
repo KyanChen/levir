@@ -1,5 +1,5 @@
 ---
-name: Jun Wu
+name: Jun Wu (吴俊)
 startdate: [2009-09-01]
 enddate: [2012-01-01]
 leavedate: [2012-01-01]

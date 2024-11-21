@@ -1,5 +1,5 @@
 ---
-name: Dan Wang
+name: Dan Wang (王丹)
 startdate: [2014-09-01]
 enddate: [2017-01-01]
 leavedate: [2017-01-01]

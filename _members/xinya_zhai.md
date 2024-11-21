@@ -1,5 +1,5 @@
 ---
-name: Xinya Zhai
+name: Xinya Zhai (翟新雅)
 startdate: [2009-09-01]
 enddate: [2012-01-01]
 leavedate: [2012-01-01]

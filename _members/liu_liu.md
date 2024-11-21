@@ -1,5 +1,5 @@
 ---
-name: "Liu Liu"
+name: Liu Liu (刘柳)
 startdate: [2011-09-01]
 enddate: [2014-06-30]
 leavedate: [2014-06-30]

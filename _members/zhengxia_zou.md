@@ -1,5 +1,5 @@
 ---
-name: Zhengxia Zou
+name: Zhengxia Zou (邹征夏)
 startdate: [2011-09-01, 2013-09-01, 2021-11-01]
 enddate: [2013-09-01, 2018-07-01]
 image: /static/img/members/zzx.png

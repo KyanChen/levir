@@ -1,5 +1,5 @@
 ---
-name: Jiajun Yang
+name: Jiajun Yang (杨家俊)
 startdate: [2020-09-01]
 enddate: []
 image: /static/img/members/jiajun_yang.jpg # 365 x 365 pixels, 72 dpi

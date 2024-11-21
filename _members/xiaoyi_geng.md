@@ -1,5 +1,5 @@
 ---
-name: Xiaoyi Geng
+name: Xiaoyi Geng (耿逍懿)
 startdate: [2019-09-01]
 enddate: [2022-06-01]
 leavedate: [2022-06-01]

@@ -1,5 +1,5 @@
 ---
-name: Wenjing Wang
+name: Wenjing Wang (王文静)
 startdate: [2019-09-01]
 enddate: [2022-01-01]
 leavedate: [2022-01-01]

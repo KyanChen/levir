@@ -1,5 +1,5 @@
 ---
-name: Yu Zhang
+name: Yu Zhang (张瑜)
 startdate: [2022-03-01, 2022-09-01]
 enddate: [2022-09-01]
 image: /static/img/members/yu_zhang.jpeg # 365 x 365 pixels, 72 dpi

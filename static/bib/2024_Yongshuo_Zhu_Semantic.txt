@@ -1,0 +1,10 @@
+@ARTICLE{10752619,
+  author={Zhu, Yongshuo and Li, Lu and Chen, Keyan and Liu, Chenyang and Zhou, Fugen and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Remote sensing image;change captioning;foundation model;multi-task learning},
+  doi={10.1109/TGRS.2024.3497338}}

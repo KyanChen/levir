@@ -1,5 +1,5 @@
 ---
-name: Guangyu Lu
+name: Guangyu Lu (卢光宇)
 startdate: [2023-01-01, 2023-09-01]
 enddate: [2023-09-01]
 image: /static/img/members/guangyu_lu.jpg # 365 x 365 pixels, 72 dpi

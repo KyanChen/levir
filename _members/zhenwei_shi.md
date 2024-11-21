@@ -1,5 +1,5 @@
 ---
-name: Zhenwei Shi
+name: Zhenwei Shi (史振威)
 startdate: [2007-06-01]
 enddate: []
 image: /static/img/members/szw.jpeg

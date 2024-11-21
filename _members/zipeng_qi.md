@@ -1,5 +1,5 @@
 ---
-name: Zipeng Qi
+name: Zipeng Qi (齐子鹏)
 startdate: [2020-09-01]
 enddate: []
 image: /static/img/members/zipeng_qi.jpg # 365 x 365 pixels, 72 dpi

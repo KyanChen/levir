@@ -1,5 +1,5 @@
 ---
-name: Junyong Li
+name: Junyong Li (李君勇)
 startdate: [2022-04-01, 2022-09-01]
 enddate: [2022-09-01,]
 image: /static/img/members/junyong_li.jpg # 365 x 365 pixels, 72 dpi

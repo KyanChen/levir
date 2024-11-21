@@ -1,5 +1,5 @@
 ---
-name: Zhenyu An
+name: Zhenyu An (安振宇)
 startdate: [2010-09-01]
 enddate: [2016-06-01]
 leavedate: [2016-06-01]

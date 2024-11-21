@@ -1,0 +1,10 @@
+@ARTICLE{10742340,
+  author={Zhang, Jun and Zhang, Cheng and Liu, Shuai and Shi, Zhenwei and Pan, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Three-Dimensional Frequency-Domain Transform Network for Cross-Scene Hyperspectral Image Classification},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-13},
+  keywords={Frequency-domain analysis;Generators;Solid modeling;Hyperspectral imaging;Data models;Adaptation models;Training;Visualization;Semantics;Interpolation;Cross-scene classification;interdomain discrepancies;three-dimensional frequency domain transform},
+  doi={10.1109/TGRS.2024.3491159}}

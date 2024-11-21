@@ -1,5 +1,5 @@
 ---
-name: Quan Chen
+name: Quan Chen (陈权)
 startdate: [2012-09-01]
 enddate: [2015-01-01]
 leavedate: [2015-01-01]

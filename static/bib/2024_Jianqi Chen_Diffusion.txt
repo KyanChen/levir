@@ -1,0 +1,10 @@
+@ARTICLE{10716799,
+  author={Chen, Jianqi and Chen, Hao and Chen, Keyan and Zhang, Yilan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={Diffusion Models for Imperceptible and Transferable Adversarial Attack},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-17},
+  keywords={Diffusion models;Perturbation methods;Closed box;Noise reduction;Solid modeling;Image color analysis;Glass box;Semantics;Gaussian noise;Purification;Adversarial attack;diffusion model;imperceptible attack;transferable attack},
+  doi={10.1109/TPAMI.2024.3480519}}

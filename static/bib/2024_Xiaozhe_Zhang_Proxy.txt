@@ -1,0 +1,10 @@
+@ARTICLE{10677537,
+  author={Zhang, Xiaozhe and Xie, Fengying and Ding, Haidong and Yan, Shaocheng and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  keywords={Transformers;Atmospheric modeling;Visualization;Solid modeling;Remote sensing;Computational modeling;Image restoration;Deep learning;dehazing dataset;remote sensing (RS) image dehazing;vision Transformer (ViT)},
+  doi={10.1109/TGRS.2024.3457868}}

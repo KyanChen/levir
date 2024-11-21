@@ -1,5 +1,5 @@
 ---
-name: Qinhan Luo
+name: Qinhan Luo (罗钦瀚)
 startdate: [2013-09-01]
 enddate: [2016-02-01]
 leavedate: [2016-02-01]

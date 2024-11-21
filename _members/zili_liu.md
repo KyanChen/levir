@@ -1,5 +1,5 @@
 ---
-name: Zili Liu
+name: Zili Liu (刘子力)
 startdate: [2021-09-01]
 enddate: []
 image: /static/img/members/zili_liu.jpeg # 365 x 365 pixels, 72 dpi

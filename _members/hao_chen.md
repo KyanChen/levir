@@ -1,5 +1,5 @@
 ---
-name: Hao Chen
+name: Hao Chen (陈浩)
 startdate: [2015-07-01, 2017-09-01]
 enddate: [2017-09-01, 2023-07-01]
 leavedate: [2023-07-01]

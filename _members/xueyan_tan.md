@@ -1,5 +1,5 @@
 ---
-name: Xueyan Tan
+name: Xueyan Tan (谭雪艳)
 startdate: [2007-09-01]
 enddate: [2011-01-01]
 leavedate: [2011-01-01]

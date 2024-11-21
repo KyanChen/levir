@@ -1,5 +1,5 @@
 ---
-name: Min Zhou
+name: Min Zhou (周敏)
 startdate: [2016-09-01]
 enddate: [2018-01-10]
 leavedate: [2018-01-10]

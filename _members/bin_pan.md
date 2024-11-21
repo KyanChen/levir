@@ -1,5 +1,5 @@
 ---
-name: Bin Pan
+name: Bin Pan (潘斌)
 startdate: [2015-01-01]
 enddate: [2019-09-01]
 leavedate: [2019-09-01]

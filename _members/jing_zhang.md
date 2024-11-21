@@ -1,5 +1,5 @@
 ---
-name: Jing Zhang
+name: Jing Zhang (张婧)
 startdate: [2020-09-01]
 enddate: [2023-01-20]
 leavedate: [2023-01-20]

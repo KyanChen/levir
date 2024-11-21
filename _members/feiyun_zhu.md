@@ -1,5 +1,5 @@
 ---
-name: Feiyun Zhu
+name: Feiyun Zhu (朱飞云)
 startdate: [2010-09-01]
 enddate: [2013-01-01]
 leavedate: [2013-01-01]

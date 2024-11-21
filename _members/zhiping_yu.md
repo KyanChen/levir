@@ -1,5 +1,5 @@
 ---
-name: Zhiping Yu  # 名字
+name: Zhiping Yu (于治平)
 startdate: [2023-02-18]
 enddate: []
 # 照片的位置，命名为姓名的拼音，建议提供生活照,将该照片放到本markdown文件夹中即可

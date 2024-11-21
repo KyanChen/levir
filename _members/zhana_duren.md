@@ -1,5 +1,5 @@
 ---
-name: Zhana Duren
+name: Zhana Duren 
 startdate: [2010-09-01]
 enddate: [2012-06-01]
 leavedate: [2012-06-01]

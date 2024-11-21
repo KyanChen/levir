@@ -1,5 +1,5 @@
 ---
-name: Haotian Zhang
+name: Haotian Zhang (张浩田)
 startdate: [2022-09-01]
 enddate: []
 image: /static/img/members/haotian_zhang.jpeg # 365 x 365 pixels, 72 dpi

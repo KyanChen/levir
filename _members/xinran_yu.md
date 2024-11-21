@@ -1,5 +1,5 @@
 ---
-name: Xinran Yu
+name: Xinran Yu (于新然)
 startdate: [2012-09-01]
 enddate: [2015-01-01]
 leavedate: [2015-01-01]

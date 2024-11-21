@@ -20,6 +20,17 @@ To create a conda environment to locally test and host, the following should suf
     bundle install
     bundle exec jekyll serve
 
+To create a conda environment to locally test and host, the following should suffice:
+    
+    ref: https://s-canchi.github.io/2021-04-30-jekyll-conda/
+    conda create -n jekyll -c conda-forge python=3.10
+    conda activate jekyll
+    conda install -c conda-forge c-compiler compilers cxx-compiler
+    conda install -c conda-forge ruby
+    gem install jekyll bundler
+    bundle install
+    bundle exec jekyll serve
+
 How to use the website:
 
 1. clone the repository

@@ -1,0 +1,10 @@
+@ARTICLE{10747525,
+  author={Lin, Baihong and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={RSBEV: Multi-view Collaborative Segmentation of 3D Remote Sensing Scenes with Bird’s-Eye-View Representation},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Three-dimensional displays;Feature extraction;Semantics;Remote sensing;Semantic segmentation;Drones;Collaboration;Transformers;Data mining;Decoding;Multi-view collaborative segmentation;remote sensing;Bird’s-Eye-View (BEV) representation;semantic segmentation},
+  doi={10.1109/TGRS.2024.3493963}}

@@ -1,5 +1,5 @@
 ---
-name: Jianqi Chen
+name: Jianqi Chen (陈剑奇)
 startdate: [2020-10-01, 2021-09-01]
 enddate: [2021-09-01, 2024-01-10]
 leavedate: [2024-01-10]
