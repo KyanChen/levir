@@ -11,11 +11,11 @@ subsequent:  "@Nankai University"
 pronouns: he/him/his # personal pronouns
 email: panbin@nankai.edu.cn
 scholar: sgWhbbAAAAAJ
-website: 
+website: http://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=5595
 beihang:
 twitter:
 linkedin:
-github: 
+github: Lab-PANbin
 researchgate:
 dblp: 
 orcid: 0000-0003-3063-1762

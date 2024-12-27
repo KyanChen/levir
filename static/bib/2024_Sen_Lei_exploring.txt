@@ -1,0 +1,10 @@
+@ARTICLE{10816052,
+  author={Lei, Sen and Xiao, Xinyu and Zhang, Tianlin and Li, Heng-Chao and Shi, Zhenwei and Zhu, Qing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Remote sensing;Image segmentation;Visualization;Feature extraction;Linguistics;Transformers;Electronic mail;Adaptation models;Object recognition;Grounding;Remote sensing images;referring image segmentation;fine-grained image-text alignment},
+  doi={10.1109/TGRS.2024.3522293}}

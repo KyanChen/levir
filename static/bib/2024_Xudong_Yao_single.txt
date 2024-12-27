@@ -1,0 +1,10 @@
+@ARTICLE{10764782,
+  author={Yao, Xudong and Zhang, Haopeng and Wen, Sizhe and Shi, Zhenwei and Jiang, Zhiguo},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  title={Single-Image Superresolution for RGB Remote Sensing Imagery via Multiscale CNN-Transformer Feature Fusion},
+  year={2025},
+  volume={18},
+  number={},
+  pages={1302-1316},
+  keywords={Remote sensing;Transformers;Feature extraction;Frequency-domain analysis;Convolutional neural networks;Data mining;Airplanes;Superresolution;Spatial resolution;Object detection;Convolutional neural network (CNN);multiscale learning;remote sensing images;superresolution (SR);Transformer},
+  doi={10.1109/JSTARS.2024.3504865}}

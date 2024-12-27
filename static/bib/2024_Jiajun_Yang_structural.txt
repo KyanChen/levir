@@ -1,0 +1,10 @@
+@ARTICLE{10794750,
+  author={Yang, Jiajun and Wang, Wenjing and Chen, Keyan and Liu, Liqin and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={Structural Representation-Guided GAN for Remote Sensing Image Cloud Removal},
+  year={2025},
+  volume={22},
+  number={},
+  pages={1-5},
+  keywords={Remote sensing;Cloud computing;Training;Clouds;Image reconstruction;Generative adversarial networks;Decoding;Semantics;Synthetic data;Feature extraction;Cloud removal;generative adversarial network (GAN);optical remote sensing},
+  doi={10.1109/LGRS.2024.3516078}}

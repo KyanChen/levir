@@ -1,0 +1,10 @@
+@ARTICLE{10769517,
+  author={Zhou, Chenyao and Zhang, Haotian and Guo, Han and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection},
+  year={2025},
+  volume={22},
+  number={},
+  pages={1-5},
+  keywords={Semantics;Decoding;Feature extraction;Solid modeling;Remote sensing;Convolution;Accuracy;Semantic segmentation;Multitasking;Land surface;Change detection;feature fusion;multitask learning;remote sensing;semantic change detection (SCD)},
+  doi={10.1109/LGRS.2024.3507292}}

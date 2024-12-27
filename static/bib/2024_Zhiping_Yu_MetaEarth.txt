@@ -1,0 +1,10 @@
+@ARTICLE{10768939,
+  author={Yu, Zhiping and Liu, Chenyang and Liu, Liqin and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={MetaEarth: a Generative Foundation Model for Global-scale Remote Sensing Image Generation},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Remote sensing;Image synthesis;Image resolution;Noise;Diffusion models;Training;Noise reduction;Computational modeling;Solid modeling;Visualization;Generative foundation model;diffusion model;remote sensing;self-cascading generation;unbounded generation},
+  doi={10.1109/TPAMI.2024.3507010}}
